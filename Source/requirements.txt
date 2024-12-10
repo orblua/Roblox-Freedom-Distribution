@@ -1,5 +1,3 @@
-typing_extensions
-PyInstaller
 pyOpenSSL
 trustme
 certifi
